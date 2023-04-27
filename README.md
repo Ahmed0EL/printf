@@ -1,5 +1,4 @@
-[Secrets_of_printf.pdf](https://github.com/Lordwill1/printf/files/10059782/Secrets_of_printf.pdf)
-# printf Project
+
 
 ## Description
 This team project is part of the first year curriculum of ALX.
@@ -102,12 +101,3 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [15. The flood of print has turned reading into a process of gulping rather than savoring](./print_custom.c)
 * Handle the following custom conversion specifier:
   - R : prints the rot13'ed string
-
-### [16. * ]
-* All the above options work well together.
-
----
-
-### Authors
-* **BECKY ISIJOLA** - [temmyisijola@gmail.com](https://github.com/Becky04)
-* **GODSWILL KALU** - [messagelordwill@gmail.com](https://github.com/Lordwill1)
